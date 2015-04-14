@@ -3,7 +3,6 @@
 ## gets it and stores it
 ## cacheSolve checks if the inverted matrix is in cache
 ## if not, it calculates this and else gets it from cache
-
 ## test it by typing: 
 ## x = matrix(1:4,2,2)
 ## test = makeCacheMatrix(x)
